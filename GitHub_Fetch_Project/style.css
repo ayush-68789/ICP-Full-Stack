@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.hero{
+    text-align: center;
+}
+
+#username {
+    height: 30px;
+    width: 200px;
+}
+
+#fetchBtn{
+    height: 35px;
+    width: 90px;
+}
